@@ -1,0 +1,32 @@
+@charset "UTF-8";
+a{
+	color: #9d33f3;
+}
+a:link { color: #4b70fd; }
+a:visited { color: #8c59b9; }
+
+
+h1{
+	color: #9d33f3;
+}
+
+
+/* 페이지 */
+ .pageInfo{
+   list-style : none;
+   display: inline-block;
+   margin: 50px 0 0 100px;      
+ }
+ .pageInfo li{
+   float: left;
+   font-size: 20px;
+   margin-left: 18px;
+   padding: 7px;
+   font-weight: 500;
+ }
+ a:link {color:black; text-decoration: none;}
+ a:visited {color:rgb(0, 0, 160); text-decoration: none;}
+ a:hover {color:rgb(0, 128, 0); text-decoration: underline;}
+ 
+
+
